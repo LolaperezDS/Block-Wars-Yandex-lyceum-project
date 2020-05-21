@@ -1,0 +1,5 @@
+screen=1200;800
+volume=0.0
+fullscreen=0
+graphics=1
+fps=120

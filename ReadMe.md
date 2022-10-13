@@ -13,7 +13,7 @@ pip install -r /path/to/requirements.txt
 ```
 pip3 install -r /path/to/requirements.txt
 ```
-=======
+=========
 # Launch
 #### For Windows
 Just launch `launch.bat` )))

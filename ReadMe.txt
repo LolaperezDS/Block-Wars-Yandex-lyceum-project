@@ -1,6 +1,17 @@
-﻿Для игры потребуется библиотека pygame!!!
-Установка:
-1)Распаковать папку
-2)Запустить Batch файл
-3)Играть!
------------------------------------------
+# Installation libraries
+#### For Windows
+'''
+pip install -r /path/to/requirements.txt
+'''
+#### For Linux
+'''
+pip3 install -r /path/to/requirements.txt
+'''
+=======
+# Launch
+#### For Windows
+Just launch launch.bat)))
+#### For Linux
+'''
+python3 /PATH_TO/main.py
+'''

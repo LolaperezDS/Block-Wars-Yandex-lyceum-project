@@ -1,5 +1,5 @@
-screen=1200;800
-volume=0.0
-fullscreen=0
+screen=1024;768
+volume=0.1025
+fullscreen=False
 graphics=0
 fps=120
